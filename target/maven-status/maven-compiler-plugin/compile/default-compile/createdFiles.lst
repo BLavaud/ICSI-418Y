@@ -1,0 +1,6 @@
+com\example\web\AWS\AWSS3Config.class
+com\example\web\AWS\AWSS3ServiceImpl.class
+com\example\BasicApplication.class
+com\example\BasicController.class
+com\example\AWSS3Ctrl.class
+com\example\web\AWS\AmazonS3ClientService.class
